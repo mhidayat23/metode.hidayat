@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metode.hidayat", "metode.hidayat\metode.hidayat.csproj", "{0056F10B-F3AF-4816-9273-0F75139F5286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0056F10B-F3AF-4816-9273-0F75139F5286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0056F10B-F3AF-4816-9273-0F75139F5286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0056F10B-F3AF-4816-9273-0F75139F5286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0056F10B-F3AF-4816-9273-0F75139F5286}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D14F89A-CB6E-4E06-B290-7BA37CD3825C}
+	EndGlobalSection
+EndGlobal
